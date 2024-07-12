@@ -5,10 +5,9 @@
   "main": "app.js",
   "dependencies": {
     "normalize.css": "^8.0.1",
-    "phaser": "^3.21.0",
+    "phaser": "^3.80.1",
     "phaser3-rex-plugins": "^1.1.7"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
